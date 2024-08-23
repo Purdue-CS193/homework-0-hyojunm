@@ -1,3 +1,11 @@
+# Jeremy Moon's First CS193 Homework
+
+Favorite things about **CS 193** so far:
+
+- GitHub
+- `terminal`
+- I would rather have a tennis ball as a head because imagine the neck pain from having a watermelon as a head :flushed:
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
