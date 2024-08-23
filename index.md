@@ -4,7 +4,7 @@ Favorite things about **CS 193** so far:
 
 - GitHub
 - `terminal`
-- I would rather have a tennis ball as a head because imagine the neck pain from having a watermelon as a head :flushed:
+- I would rather have a tennis ball as a head because imagine the neck pain from having a watermelon as a head :(
 
 ## Welcome to GitHub Pages
 
